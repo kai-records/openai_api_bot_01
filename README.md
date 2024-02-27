@@ -1,1 +1,1 @@
-# openai_api_bot_002
+## Open Aiを使用してチャットボットの作成
