@@ -1,1 +1,1 @@
-## Open Aiを使用AWAKE
+## Open Aiを使用
