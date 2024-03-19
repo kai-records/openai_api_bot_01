@@ -1,1 +1,1 @@
-## Open Aiを使用
+## Open
